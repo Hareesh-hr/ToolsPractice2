@@ -6,6 +6,11 @@ private void Sysout() {
 	System.out.println("print by dl");
 }
 
+
 private void dev() {
 }
+private void Tl() {
+	
+}
+
 }
