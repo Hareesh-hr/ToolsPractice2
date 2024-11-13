@@ -5,4 +5,7 @@ private void Sysout() {
 	System.out.println("Application file by Dev");
 	System.out.println("print by dl");
 }
+
+private void dev() {
+}
 }
